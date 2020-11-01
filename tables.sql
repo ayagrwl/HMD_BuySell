@@ -1,5 +1,5 @@
-create schema dbpro 
-use dbpro 
+create schema dbpro;
+use dbpro;
 
 create table user_login(
 	email varchar(30) primary key,
